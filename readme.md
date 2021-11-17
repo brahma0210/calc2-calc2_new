@@ -1,6 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/RajChalla/calc2.svg?branch=main)](https://app.travis-ci.com/RajChalla/calc2)
-
+[![Build Status](https://app.travis-ci.com/brahma0210/calc_example.svg?branch=main)](https://app.travis-ci.com/brahma0210/calc_example)
 Run Pip Install
 pip install -r requirements.txt
 
