@@ -10,5 +10,5 @@ script:
 branches:
   only:
     - main
-    - calc2_new
+    - calc_part_2
     - development
